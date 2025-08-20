@@ -1,0 +1,12 @@
+english-classes/
+│── README.md        (explica sobre o repositório)
+│── level-1/
+│    ├── vocabulary.pdf
+│    ├── grammar.md
+│    └── exercises.docx
+│── level-2/
+│    ├── lessons.pdf
+│    └── homework.md
+│── resources/
+     ├── verb-list.pdf
+     └── flashcards.png
